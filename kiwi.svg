@@ -10,4 +10,5 @@
     <circle cx="36" cy="22" r="2"/>
     <circle cx="59" cy="22" r="2"/>
   </g>
+  <text>%xxe;</text>
 </svg>
